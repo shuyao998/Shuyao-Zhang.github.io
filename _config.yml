@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "张书瑶 · Shuyao Zhang"
+title                    : "张舒尧 · Shuyao Zhang"
 description              : "腐蚀电化学 · 增材制造 · 合金设计 · 数据驱动材料发现"
 repository               : "shuyao998/Shuyao-Zhang.github.io"
 google_scholar_stats_use_cdn : false
@@ -20,12 +20,12 @@ bing_site_verification   :   # get bing_site_verification from https://www.bing.
 baidu_site_verification  :   # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # ClustrMaps visitor map (register at https://clustrmaps.com to get your own widget id, then paste it here)
-clustrmaps_id            :   # e.g. "abc123xyz"
+clustrmaps_id            : "Raa-LfBE5OKqhYlGzBET2erCwrPqxpvE5PMxOSeFFm8"
 
 # Site Author
 author:
-  name             : "张书瑶 / Shuyao Zhang"
-  avatar           : "images/profile.svg"
+  name             : "张舒尧 / Shuyao Zhang"
+  avatar           : "images/profile.jpg"
   bio              : "PhD Candidate · 天津大学 / 南洋理工大学"
   location         : "新加坡 / 中国天津"
   employer         :

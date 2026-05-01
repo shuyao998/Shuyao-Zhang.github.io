@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👋 你好,我是张书瑶 (Shuyao Zhang)
+# 👋 你好,我是张舒尧 (Shuyao Zhang)
 
 > **用电化学读懂腐蚀,用增材制造重塑合金,用数据驱动材料发现。**
 
