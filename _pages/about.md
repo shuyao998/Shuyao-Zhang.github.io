@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <div style="margin: 0 0 2em 0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.08); position: relative;">
-  <img src="{{ '/images/ntu-sunset.jpg' | relative_url }}" alt="NTU campus sunset" style="width: 100%; height: 180px; object-fit: cover; object-position: center 38%; display: block;">
-  <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 0.4em 0.9em; background: linear-gradient(transparent, rgba(0,0,0,0.55)); color: #fff; font-size: 0.8em; text-align: right; letter-spacing: 0.05em;">🌅 NTU · Singapore</div>
+  <img src="{{ '/images/cloud-sea.jpg' | relative_url }}" alt="云海晨曦" style="width: 100%; height: 180px; object-fit: cover; object-position: center 55%; display: block;">
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 0.4em 0.9em; background: linear-gradient(transparent, rgba(0,0,0,0.55)); color: #fff; font-size: 0.8em; text-align: right; letter-spacing: 0.05em;">☁️ 云海晨曦 · Sea of clouds at dawn</div>
 </div>
 
 <span class='anchor' id='about-me'></span>
