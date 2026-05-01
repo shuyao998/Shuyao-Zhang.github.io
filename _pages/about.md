@@ -15,24 +15,24 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div style="margin: 0 0 2em 0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.08); position: relative;">
+  <img src="{{ '/images/ntu-sunset.jpg' | relative_url }}" alt="NTU campus sunset" style="width: 100%; height: 180px; object-fit: cover; object-position: center 38%; display: block;">
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 0.4em 0.9em; background: linear-gradient(transparent, rgba(0,0,0,0.55)); color: #fff; font-size: 0.8em; text-align: right; letter-spacing: 0.05em;">🌅 NTU · Singapore</div>
+</div>
+
 <span class='anchor' id='about-me'></span>
 
 # 👋 你好,我是张舒尧 (Shuyao Zhang)
 
 > **用电化学读懂腐蚀,用增材制造重塑合金,用数据驱动材料发现。**
 
-我是 [天津大学](https://www.tju.edu.cn/) 化工学院的博士候选人,自 2025 年 5 月起在 [南洋理工大学 (NTU)](https://www.ntu.edu.sg/) 开展联合培养研究,预计 2026 年 7 月毕业。
+我是 [天津大学](https://www.tju.edu.cn/) 化工学院的 PhD candidate,自 2025 年 5 月起在 [南洋理工大学 (NTU)](https://www.ntu.edu.sg/) 开展联合培养研究,预计 2026 年 7 月毕业。
 
-我的研究关注 **极端环境下金属材料的腐蚀失效与防护**——从 HF 蒸汽到氯碱体系,从 SCC 到点蚀,从工艺优化到合金设计——用电化学、增材制造和机器学习的交叉视角,把"为什么会坏"和"怎么不坏"这两个老问题做出新的回答。
+我的研究关注 **极端环境下金属材料的腐蚀失效与防护**——沿着 **环境 → 机理 → 防护** 的研究链条:从 HF 蒸汽、氯碱(NaClO₃ / NaCl / NaOH)等极端工业介质,到点蚀、应力腐蚀开裂(SCC)等失效模式,再到工艺优化与合金设计的应对路径。我用电化学、增材制造和机器学习的交叉视角,把"为什么会坏"和"怎么不坏"这两个老问题做出新的回答。
 
 <a href='https://scholar.google.com/citations?user=KpBH4RIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 <img src="https://img.shields.io/badge/论文-13_篇-brightgreen?style=flat&logo=bookstack" alt="papers">
 <img src="https://img.shields.io/badge/一作/共一-7_篇-orange?style=flat&logo=academia" alt="first-author">
-
-<figure style="margin: 1.5em 0 0.5em 0;">
-  <img src="{{ '/images/ntu-sunset.jpg' | relative_url }}" alt="NTU 校园日落" style="width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align:center; color:#888; font-size:0.85em; margin-top:0.4em;">🌅 NTU 校园日落,博士联合培养期间的日常一景</figcaption>
-</figure>
 
 ---
 

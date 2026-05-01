@@ -12,6 +12,11 @@ author_profile: true
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<div style="margin: 0 0 2em 0; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.08); position: relative;">
+  <img src="{{ '/images/ntu-sunset.jpg' | relative_url }}" alt="NTU campus sunset" style="width: 100%; height: 180px; object-fit: cover; object-position: center 38%; display: block;">
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; padding: 0.4em 0.9em; background: linear-gradient(transparent, rgba(0,0,0,0.55)); color: #fff; font-size: 0.8em; text-align: right; letter-spacing: 0.05em;">🌅 NTU · Singapore</div>
+</div>
+
 <span class='anchor' id='about-me'></span>
 
 # 👋 Hi, I'm Shuyao Zhang
@@ -20,16 +25,11 @@ author_profile: true
 
 I am a PhD candidate at the [School of Chemical Engineering and Technology, Tianjin University](https://chemeng.tju.edu.cn/). Since May 2025 I have been a Visiting PhD at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). Expected graduation: July 2026.
 
-My research focuses on **degradation and protection of metallic materials in complex environments** — from HF vapor to chlor-alkali systems, from stress corrosion cracking to passive-film breakdown — combining electrochemistry, additive manufacturing, and machine learning to bridge mechanistic understanding and engineering prediction.
+My research focuses on **degradation and protection of metallic materials in complex environments**, organised along an **environment → mechanism → mitigation** pipeline: from extreme industrial media (HF vapor, chlor-alkali NaClO₃ / NaCl / NaOH) to failure modes (pitting, stress corrosion cracking, passive-film breakdown), and on to processing- and alloy-design solutions. I combine electrochemistry, additive manufacturing, and machine learning to bridge mechanistic understanding and engineering prediction.
 
 <a href='https://scholar.google.com/citations?user=KpBH4RIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <img src="https://img.shields.io/badge/Papers-13-brightgreen?style=flat&logo=bookstack" alt="papers">
 <img src="https://img.shields.io/badge/First%2FCo--first-7-orange?style=flat&logo=academia" alt="first-author">
-
-<figure style="margin: 1.5em 0 0.5em 0;">
-  <img src="{{ '/images/ntu-sunset.jpg' | relative_url }}" alt="NTU campus sunset" style="width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
-  <figcaption style="text-align:center; color:#888; font-size:0.85em; margin-top:0.4em;">🌅 Sunset on NTU campus — a daily view during my visiting PhD.</figcaption>
-</figure>
 
 ---
 
