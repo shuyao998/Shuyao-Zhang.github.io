@@ -30,6 +30,7 @@ My research focuses on **degradation and protection of metallic materials in com
 <a href='https://scholar.google.com/citations?user=KpBH4RIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <img src="https://img.shields.io/badge/Papers-13-brightgreen?style=flat&logo=bookstack" alt="papers">
 <img src="https://img.shields.io/badge/First%2FCo--first-7-orange?style=flat&logo=academia" alt="first-author">
+<a href="{{ '/files/CV-Shuyao-Zhang.pdf' | relative_url }}"><img src="https://img.shields.io/badge/📄_Download_CV-PDF-blue?style=flat" alt="Download CV"></a>
 
 ---
 
@@ -60,9 +61,9 @@ My research focuses on **degradation and protection of metallic materials in com
 
 # 🎓 Education
 
-- *2025.05 – present*&nbsp;&nbsp;**Nanyang Technological University**, Singapore — Visiting PhD
-- *2020.09 – 2026.07 (expected)*&nbsp;&nbsp;**Tianjin University**, China — MSc-PhD, Chemical Process Machinery
-- *2016.09 – 2020.06*&nbsp;&nbsp;**Tianjin University**, China — BEng, Process Equipment and Control Engineering · GPA 3.53/4.0
+- *2025.05 – present*&nbsp;&nbsp;<img src="{{ '/images/NTU_logo.svg' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Nanyang Technological University**, Singapore — Visiting PhD
+- *2020.09 – 2026.07 (expected)*&nbsp;&nbsp;<img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Tianjin University**, China — MSc-PhD, Chemical Process Machinery
+- *2016.09 – 2020.06*&nbsp;&nbsp;<img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Tianjin University**, China — BEng, Process Equipment and Control Engineering · GPA 3.53/4.0
 - *2019.09 – 2019.12*&nbsp;&nbsp;**Carleton University**, Canada — Exchange (Excellent Undergraduate program)
 - *2019.07 – 2019.08*&nbsp;&nbsp;**Duke University**, USA — Summer Scholar Program (Probability and Statistics in Engineering, Final Grade: A)
 
@@ -122,6 +123,7 @@ My research focuses on **degradation and protection of metallic materials in com
 # 📫 Contact
 
 - 📧 [shuyao98.zhang@gmail.com](mailto:shuyao98.zhang@gmail.com) ｜ [N2409991B@e.ntu.edu.sg](mailto:N2409991B@e.ntu.edu.sg)
+- 📄 **CV**&nbsp;&nbsp;[Download PDF (2-page short version)]({{ '/files/CV-Shuyao-Zhang.pdf' | relative_url }})
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=KpBH4RIAAAAJ)
 - 🆔 [ORCID 0009-0003-9231-6618](https://orcid.org/0009-0003-9231-6618)
 - 💻 [GitHub @shuyao998](https://github.com/shuyao998)
