@@ -18,13 +18,18 @@ author_profile: true
 
 > **Reading corrosion through electrochemistry, reshaping alloys with additive manufacturing, accelerating discovery with data.**
 
-I am a PhD candidate at the [School of Chemical Engineering and Technology, Tianjin University](https://chemeng.tju.edu.cn/), advised by [Prof. Xu Chen](https://chemeng.tju.edu.cn/). Since May 2025 I have been a CSC-sponsored Visiting PhD at the [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/), working in Prof. Kun Zhou's group. Expected graduation: July 2026.
+I am a PhD candidate at the [School of Chemical Engineering and Technology, Tianjin University](https://chemeng.tju.edu.cn/). Since May 2025 I have been a Visiting PhD at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). Expected graduation: July 2026.
 
 My research focuses on **degradation and protection of metallic materials in complex environments** — from HF vapor to chlor-alkali systems, from stress corrosion cracking to passive-film breakdown — combining electrochemistry, additive manufacturing, and machine learning to bridge mechanistic understanding and engineering prediction.
 
 <a href='https://scholar.google.com/citations?user=KpBH4RIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 <img src="https://img.shields.io/badge/Papers-13-brightgreen?style=flat&logo=bookstack" alt="papers">
 <img src="https://img.shields.io/badge/First%2FCo--first-7-orange?style=flat&logo=academia" alt="first-author">
+
+<figure style="margin: 1.5em 0 0.5em 0;">
+  <img src="{{ '/images/ntu-sunset.jpg' | relative_url }}" alt="NTU campus sunset" style="width:100%; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.1);">
+  <figcaption style="text-align:center; color:#888; font-size:0.85em; margin-top:0.4em;">🌅 Sunset on NTU campus — a daily view during my visiting PhD.</figcaption>
+</figure>
 
 ---
 
@@ -34,7 +39,7 @@ My research focuses on **degradation and protection of metallic materials in com
 
 - **2026.04** &nbsp;🎉 Co-first author paper *Competitive adsorption and unexpected corrosion inhibition effect of 316L in NaClO₃/NaCl* accepted by **Corrosion Science**
 - **2026.04** &nbsp;📨 First-author paper *Multi-ion governed passivation and breakdown of 316L in NaCl/NaClO₃/NaOH* under review at **Corrosion Science**
-- **2025.05** &nbsp;✈️ Joined Prof. Kun Zhou's group at NTU Singapore as a CSC-sponsored Visiting PhD
+- **2025.05** &nbsp;✈️ Joined NTU Singapore as a Visiting PhD
 - **2025**  &nbsp;&nbsp;&nbsp;&nbsp;📄 First-author paper on micro-droplet electrochemical analysis of DED 316L vs Inconel 625 in HF vapor published in **Electrochimica Acta**
 - **2024**  &nbsp;&nbsp;&nbsp;&nbsp;📄 First-author paper on SS316L/IN625 functionally graded multi-material in HF published in **Corrosion Science**
 
@@ -55,10 +60,10 @@ My research focuses on **degradation and protection of metallic materials in com
 
 # 🎓 Education
 
-- *2025.05 – present*&nbsp;&nbsp;**Nanyang Technological University**, Singapore — Visiting PhD · Supervisor: Prof. Kun Zhou · CSC Scholarship
-- *2020.09 – 2026.07 (expected)*&nbsp;&nbsp;**Tianjin University**, China — MSc-PhD, Chemical Process Machinery · Supervisor: Prof. Xu Chen
+- *2025.05 – present*&nbsp;&nbsp;**Nanyang Technological University**, Singapore — Visiting PhD
+- *2020.09 – 2026.07 (expected)*&nbsp;&nbsp;**Tianjin University**, China — MSc-PhD, Chemical Process Machinery
 - *2016.09 – 2020.06*&nbsp;&nbsp;**Tianjin University**, China — BEng, Process Equipment and Control Engineering · GPA 3.53/4.0
-- *2019.09 – 2019.12*&nbsp;&nbsp;**Carleton University**, Canada — Exchange · CSC Excellent Undergraduate Scholarship
+- *2019.09 – 2019.12*&nbsp;&nbsp;**Carleton University**, Canada — Exchange (Excellent Undergraduate program)
 - *2019.07 – 2019.08*&nbsp;&nbsp;**Duke University**, USA — Summer Scholar Program (Probability and Statistics in Engineering, Final Grade: A)
 
 ---
@@ -77,8 +82,8 @@ My research focuses on **degradation and protection of metallic materials in com
 4. Dai H, **Zhang S** *(Co-first author)*, Li Y, et al. *Stress corrosion cracking behavior of 316L manufactured by different additive manufacturing techniques in hydrofluoric acid vapor.* **Journal of Materials Science & Technology**, 2024, 191: 33–48.
 5. Yao J, **Zhang S** *(Co-first author)*, Chen S, et al. *Competitive adsorption and unexpected corrosion inhibition effect of 316L stainless steel in NaClO₃ and NaCl environment of chlor-alkali industry.* **Corrosion Science**, 2026: 113777.
 6. **Zhang S**, Cheng Zhang. *Multi-ion governed passivation and breakdown of 316L stainless steel in NaCl/NaClO₃/NaOH alkaline environments.* **Corrosion Science.** *(Under Review, 2026)*
-7. **Zhang S**, Zhao, Niu P, Chen X. *TiC-enabled second-phase engineering in DED 316L stainless steel for simultaneous strength and corrosion resistance enhancement.* *(In Preparation, 2026)*
-8. **Zhang S**, Li B, Zhou K. *Heat-treatment-induced corrosion mode transition in DED-fabricated nickel-aluminium bronze: from uniform corrosion to selective dissolution.* *(In Preparation, 2026)*
+7. **Zhang S**, et al. *TiC-enabled second-phase engineering in DED 316L stainless steel for simultaneous strength and corrosion resistance enhancement.* *(In Preparation, 2026)*
+8. **Zhang S**, et al. *Heat-treatment-induced corrosion mode transition in DED-fabricated nickel-aluminium bronze: from uniform corrosion to selective dissolution.* *(In Preparation, 2026)*
 
 ### Co-author
 
