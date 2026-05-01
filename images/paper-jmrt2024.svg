@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <defs>
+    <linearGradient id="pjmrt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f7971e"/>
+      <stop offset="100%" stop-color="#ffd200"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#pjmrt)"/>
+  <text x="200" y="100" font-family="-apple-system, sans-serif" font-size="50" text-anchor="middle">⚖️</text>
+  <text x="200" y="150" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle" fill="#3a2a00">Hybrid Alloy · DED</text>
+  <text x="200" y="178" font-family="-apple-system, sans-serif" font-size="14" text-anchor="middle" fill="#3a2a00" opacity="0.85">Uniform vs Local Corrosion</text>
+  <text x="200" y="210" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#7a3a00">JMRT 2024</text>
+</svg>

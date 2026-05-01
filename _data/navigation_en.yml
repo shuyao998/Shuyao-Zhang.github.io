@@ -1,0 +1,25 @@
+# English main navigation
+main:
+  - title: "About"
+    url: "/en/#about-me"
+
+  - title: "News"
+    url: "/en/#news"
+
+  - title: "Research"
+    url: "/en/#research"
+
+  - title: "Education"
+    url: "/en/#education"
+
+  - title: "Publications"
+    url: "/en/#publications"
+
+  - title: "Skills"
+    url: "/en/#skills"
+
+  - title: "Conferences"
+    url: "/en/#conferences"
+
+  - title: "Contact"
+    url: "/en/#contact"

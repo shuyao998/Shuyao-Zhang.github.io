@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="400" height="240">
+  <defs>
+    <linearGradient id="pea" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0083b0"/>
+      <stop offset="100%" stop-color="#00b4db"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#pea)"/>
+  <text x="200" y="100" font-family="-apple-system, sans-serif" font-size="50" text-anchor="middle">💧</text>
+  <text x="200" y="150" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle" fill="#fff">DED 316L vs IN625</text>
+  <text x="200" y="178" font-family="-apple-system, sans-serif" font-size="14" text-anchor="middle" fill="#fff" opacity="0.9">Micro-droplet · HF Vapor</text>
+  <text x="200" y="210" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="#ffd700">Electrochim. Acta 2025</text>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2d78ad"/>
+      <stop offset="50%" stop-color="#3d9ad8"/>
+      <stop offset="100%" stop-color="#7bc8e8"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="200" cy="200" r="200" fill="url(#bg)"/>
+  <circle cx="200" cy="200" r="200" fill="url(#glow)"/>
+  <text x="200" y="245" font-family="Georgia, 'Times New Roman', serif" font-size="180" font-weight="700" text-anchor="middle" fill="#ffffff" letter-spacing="-8">SZ</text>
+  <text x="200" y="320" font-family="-apple-system, 'Segoe UI', sans-serif" font-size="28" font-weight="500" text-anchor="middle" fill="#ffffff" opacity="0.9">Shuyao Zhang</text>
+</svg>
