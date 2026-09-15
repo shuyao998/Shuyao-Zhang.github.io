@@ -23,7 +23,7 @@ author_profile: true
 
 > **Reading corrosion through electrochemistry, reshaping alloys with additive manufacturing, accelerating discovery with data.**
 
-I completed my MSc–PhD at the [School of Chemical Engineering and Technology, Tianjin University](https://chemeng.tju.edu.cn/) and received my **Ph.D. in July 2026**, including a joint-training period (May 2025 – July 2026) as a Visiting PhD at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). I am an **incoming Research Fellow** at the Department of Materials Science and Engineering, [**National University of Singapore (NUS)**](https://www.nus.edu.sg/).
+I completed my MSc–PhD at the [School of Chemical Engineering and Technology, Tianjin University](https://chemeng.tju.edu.cn/) and received my **Ph.D. in July 2026**, including a joint-training period (May 2025 – May 2026) as a Visiting PhD at [Nanyang Technological University (NTU), Singapore](https://www.ntu.edu.sg/). I am an **incoming Research Fellow** at the Department of Materials Science and Engineering, [**National University of Singapore (NUS)**](https://www.nus.edu.sg/).
 
 My research focuses on **degradation and protection of metallic materials in complex environments**, organised along an **environment → mechanism → mitigation** pipeline: from extreme industrial media (HF vapor, chlor-alkali NaClO₃ / NaCl / NaOH) to failure modes (pitting, stress corrosion cracking, passive-film breakdown), and on to processing- and alloy-design solutions. I combine electrochemistry, additive manufacturing, and machine learning to bridge mechanistic understanding and engineering prediction.
 
@@ -39,7 +39,8 @@ My research focuses on **degradation and protection of metallic materials in com
 # 🔥 News
 
 - **2026** &nbsp;&nbsp;&nbsp;&nbsp;🚀 Incoming **Research Fellow** at the Department of Materials Science and Engineering, **NUS**
-- **2026.07** &nbsp;🎓 Received **Ph.D.** from **Tianjin University** (MSc–PhD program), completing joint training at NTU
+- **2026.07** &nbsp;🎓 Received **Ph.D.** from **Tianjin University** (MSc–PhD program)
+- **2026.05** &nbsp;✅ Completed joint-training research at **NTU**, Singapore
 - **2026.04** &nbsp;🎉 Co-first author paper *Competitive adsorption and unexpected corrosion inhibition effect of 316L in NaClO₃/NaCl* accepted by **Corrosion Science**
 - **2026.04** &nbsp;📨 First-author paper *Multi-ion governed passivation and breakdown of 316L in NaCl/NaClO₃/NaOH* under review at **Corrosion Science**
 - **2025.05** &nbsp;✈️ Joined NTU Singapore as a Visiting PhD
@@ -63,7 +64,7 @@ My research focuses on **degradation and protection of metallic materials in com
 
 # 🎓 Education
 
-- *2025.05 – 2026.07*&nbsp;&nbsp;<img src="{{ '/images/NTU_logo.svg' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Nanyang Technological University**, Singapore — Visiting PhD (joint training)
+- *2025.05 – 2026.05*&nbsp;&nbsp;<img src="{{ '/images/NTU_logo.svg' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Nanyang Technological University**, Singapore — Visiting PhD (joint training)
 - *2020.09 – 2026.07*&nbsp;&nbsp;<img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Tianjin University**, China — Ph.D., Chemical Process Machinery (MSc–PhD program)
 - *2016.09 – 2020.06*&nbsp;&nbsp;<img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"> **Tianjin University**, China — BEng, Process Equipment and Control Engineering · GPA 3.53/4.0
 - *2019.09 – 2019.12*&nbsp;&nbsp;**Carleton University**, Canada — Exchange (Excellent Undergraduate program)
