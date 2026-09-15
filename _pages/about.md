@@ -26,7 +26,7 @@ redirect_from:
 
 > **用电化学读懂腐蚀,用增材制造重塑合金,用数据驱动材料发现。**
 
-我是 [天津大学](https://www.tju.edu.cn/) 化工学院的 PhD candidate,自 2025 年 5 月起在 [南洋理工大学 (NTU)](https://www.ntu.edu.sg/) 开展联合培养研究,预计 2026 年 7 月毕业。
+我在 [天津大学](https://www.tju.edu.cn/) 化工学院完成硕博连读,于 **2026 年 7 月获得博士学位**;读博期间(2025.05–2026.07)在 [南洋理工大学 (NTU)](https://www.ntu.edu.sg/) 完成联合培养研究。我即将加入 [**新加坡国立大学 (NUS)**](https://www.nus.edu.sg/) 材料科学与工程系,担任 **Research Fellow**(博士后研究员)。
 
 我的研究关注 **极端环境下金属材料的腐蚀失效与防护**——沿着 **环境 → 机理 → 防护** 的研究链条:从 HF 蒸汽、氯碱(NaClO₃ / NaCl / NaOH)等极端工业介质,到点蚀、应力腐蚀开裂(SCC)等失效模式,再到工艺优化与合金设计的应对路径。我用电化学、增材制造和机器学习的交叉视角,把"为什么会坏"和"怎么不坏"这两个老问题做出新的回答。
 
@@ -41,6 +41,8 @@ redirect_from:
 
 # 🔥 最新动态
 
+- **2026** &nbsp;&nbsp;&nbsp;&nbsp;🚀 即将加入 **新加坡国立大学 (NUS)** 材料科学与工程系,任 **Research Fellow**(博士后)
+- **2026.07** &nbsp;🎓 于 **天津大学** 获得博士学位(化工过程机械 · 硕博连读),并完成在 NTU 的联合培养
 - **2026.04** &nbsp;🎉 共同一作论文 *Competitive adsorption and unexpected corrosion inhibition effect of 316L in NaClO₃/NaCl* 被 **Corrosion Science** 接收
 - **2026.04** &nbsp;📨 一作论文 *Multi-ion governed passivation and breakdown of 316L in NaCl/NaClO₃/NaOH* 投稿 **Corrosion Science**(Under Review)
 - **2025.05** &nbsp;✈️ 加入新加坡南洋理工大学 (NTU),开始联合培养博士研究
@@ -93,8 +95,8 @@ DED / LPBF 工艺下的 316L、Inconel 625、GH4169、308L、镍铝青铜(NAB)�
 
 # 🎓 学历
 
-- *2025.05 – 至今*&nbsp;&nbsp;<a href="https://www.ntu.edu.sg/"><img src="{{ '/images/NTU_logo.svg' | relative_url }}" width="22pt" style="vertical-align: middle;"></a> **南洋理工大学 (NTU)**, 新加坡 — 联合培养博士
-- *2020.09 – 2026.07 (预计)*&nbsp;&nbsp;<a href="https://www.tju.edu.cn/"><img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"></a> **天津大学**, 中国 — 化工过程机械 · 硕博连读
+- *2025.05 – 2026.07*&nbsp;&nbsp;<a href="https://www.ntu.edu.sg/"><img src="{{ '/images/NTU_logo.svg' | relative_url }}" width="22pt" style="vertical-align: middle;"></a> **南洋理工大学 (NTU)**, 新加坡 — 联合培养博士(与天津大学联合培养)
+- *2020.09 – 2026.07*&nbsp;&nbsp;<a href="https://www.tju.edu.cn/"><img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"></a> **天津大学**, 中国 — 化工过程机械 · 硕博连读 · **博士**
 - *2016.09 – 2020.06*&nbsp;&nbsp;<a href="https://www.tju.edu.cn/"><img src="{{ '/images/TJU_logo.png' | relative_url }}" width="22pt" style="vertical-align: middle;"></a> **天津大学**, 中国 — 过程装备与控制工程 · 学士 · GPA 3.53/4.0
 - *2019.09 – 2019.12*&nbsp;&nbsp;**Carleton University**, 加拿大 — 优秀本科生交流项目
 - *2019.07 – 2019.08*&nbsp;&nbsp;**Duke University**, 美国 — Summer Scholar (Probability and Statistics in Engineering, Final Grade: A)
@@ -195,7 +197,8 @@ DED / LPBF 工艺下的 316L、Inconel 625、GH4169、308L、镍铝青铜(NAB)�
 
 # 🌍 国际经历
 
-- **2025–** &nbsp;南洋理工大学 (NTU), 新加坡 — 联合培养博士
+- **即将** &nbsp;新加坡国立大学 (NUS), 新加坡 — Research Fellow(材料科学与工程系)
+- **2025–2026** &nbsp;南洋理工大学 (NTU), 新加坡 — 联合培养博士
 - **2019** &nbsp;Duke University, 美国 — 6 周 Summer Scholar (Final A)
 - **2019** &nbsp;Carleton University, 加拿大 — 3 个月本科交流
 
@@ -205,7 +208,7 @@ DED / LPBF 工艺下的 316L、Inconel 625、GH4169、308L、镍铝青铜(NAB)�
 
 # 📫 联系方式
 
-- 📧 **Email**&nbsp;&nbsp;[shuyao98.zhang@gmail.com](mailto:shuyao98.zhang@gmail.com) ｜ [N2409991B@e.ntu.edu.sg](mailto:N2409991B@e.ntu.edu.sg)
+- 📧 **Email**&nbsp;&nbsp;[shuyao98.zhang@gmail.com](mailto:shuyao98.zhang@gmail.com)
 - 📄 **CV**&nbsp;&nbsp;[下载 PDF (2 页精简版)]({{ '/files/CV-Shuyao-Zhang.pdf' | relative_url }})
 - 🎓 **Google Scholar**&nbsp;&nbsp;[KpBH4RIAAAAJ](https://scholar.google.com/citations?user=KpBH4RIAAAAJ)
 - 🆔 **ORCID**&nbsp;&nbsp;[0009-0003-9231-6618](https://orcid.org/0009-0003-9231-6618)
