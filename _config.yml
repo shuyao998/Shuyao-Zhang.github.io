@@ -21,8 +21,8 @@ google_site_verification :   # get google_site_verification from https://search.
 bing_site_verification   :   # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :   # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
-# ClustrMaps visitor map (register at https://clustrmaps.com to get your own widget id, then paste it here)
-clustrmaps_id            : "Raa-LfBE5OKqhYlGzBET2erCwrPqxpvE5PMxOSeFFm8"
+# MapMyVisitors (formerly ClustrMaps) globe widget — get your widget id at https://mapmyvisitors.com
+mapmyvisitors_id         : "FGr1k_EpBJ9l9CtzkpjKGkxznUwORq0b2JzDQLmbc6c"
 
 # Site Author
 author:

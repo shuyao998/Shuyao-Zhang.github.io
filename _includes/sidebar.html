@@ -14,7 +14,7 @@
   {%- comment -%}
     ===== Visitor Statistics =====
     busuanzi: zero-config, no signup, instant pageview + visitor counter.
-    ClustrMaps: optional, set `clustrmaps_id` in _config.yml after registering at https://clustrmaps.com
+    MapMyVisitors: optional globe map, set `mapmyvisitors_id` in _config.yml after registering at https://mapmyvisitors.com
   {%- endcomment -%}
   <div class="visitor-stats" style="margin-top: 1.2em; padding: 0.8em; border-top: 1px solid #eee; font-size: 0.85em; color: #666; text-align: center;">
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
@@ -24,10 +24,10 @@
       &nbsp;·&nbsp;
       <span id="busuanzi_container_site_pv">访问 <span id="busuanzi_value_site_pv">--</span> 次</span>
     </div>
-    {% if site.clustrmaps_id %}
+    {% if site.mapmyvisitors_id %}
       <div style="margin-top: 0.8em;">
         <div style="font-size: 0.85em; margin-bottom: 0.4em; color: #555;">🌍 全球访客地图</div>
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d={{ site.clustrmaps_id }}&cl=ffffff&w=a"></script>
+        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d={{ site.mapmyvisitors_id }}"></script>
       </div>
     {% endif %}
   </div>
